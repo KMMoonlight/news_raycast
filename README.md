@@ -1,3 +1,4 @@
-# News
+raycast的新闻插件
 
-News
+![](/images/1.png)
+![](/images/2.png)
